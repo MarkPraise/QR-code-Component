@@ -19,13 +19,13 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Screenshot
 
-[./images/Qrcode.jpg]
+[QR-Code-Preview](./images/Qrcode.jpg)
 
 
 ### Links
 
-- Solution URL: [https://github.com/MarkPraise/QR-code-Component]
-- Live Site URL: [https://markpraise.github.io/QR-code-Component/]
+- Solution URL: [Solution](https://github.com/MarkPraise/QR-code-Component)
+- Live Site URL: [Live preview](https://markpraise.github.io/QR-code-Component/)
 
 ## My process
 
@@ -36,14 +36,12 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - Flexbox
 - Mobile-first workflow
 
-**Note: These are just examples. Delete this note and replace the list above with your own choices**
 
 ### What I learned
 
   I practiced working with css flex, usng external fonts, and Simple layouts.
 
 
-If you want more help with writing markdown, we'd recommend checking out [The Markdown Guide](https://www.markdownguide.org/) to learn more.
 
 
 ### Continued development
@@ -54,7 +52,7 @@ I Look forward to build Websites that arent just appealing to the eyes on one sc
 ## Author
 
 - Website - [Mark Praise](https://markpraise.github.io/QR-code-Component/)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@Mark Praise](https://www.frontendmentor.io/profile/MarkPraise)
 
 
 
