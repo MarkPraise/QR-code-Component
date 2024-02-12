@@ -6,9 +6,7 @@
     font-family: 'Outfit', sans-serif;
 }
  section{
-    background-color: hsl(212, 45%, 89%);
-    max-width: 1440px;
-    min-width: 375px; 
+    background-color: hsl(212, 45%, 89%); 
     height: 100vh;
     display: flex;
     flex-direction: column;
@@ -19,7 +17,8 @@
  #container{
     background-color: hsl(0, 0%, 100%);
     padding: 20px;
-    width: 390px;
+    max-width: 1440px;
+    min-width: 375px;
     margin: auto;
     border-radius: 1.5rem;
     font-size: 15px;
